@@ -1,0 +1,6 @@
+.DS_Store
+.Rproj.user
+*.Rproj
+.Rhistory
+temp.db
+reference_databases/*/
