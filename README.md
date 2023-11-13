@@ -13,7 +13,8 @@ rm -r ./reference_databases/silva*
 
 ## Regional species lists
 
-Regional species lists are created using `reference_species.R` and saved to `reference_databases/reference_species.rds`.
+Regional species lists are created using `reference_species.R` and saved to `reference_databases/reference_species.csv.gz`.
 
 ## Gap analysis
 
+Species lists by H3 cell of resolution 3 whith columns indicating presence in reference databases are written to `species_lists/species_lists.csv.gz`.
